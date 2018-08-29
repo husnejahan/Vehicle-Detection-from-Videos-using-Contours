@@ -1,5 +1,5 @@
 import cv2
-filename = 'traffic.avi'
+filename = 'video/traffic.avi'
 cap = cv2.VideoCapture(filename)
 reference_frame =None 
 image_area = None
